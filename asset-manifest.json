@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69f9032f.chunk.css",
+    "main.js": "/static/js/main.e8c74b20.chunk.js",
+    "main.js.map": "/static/js/main.e8c74b20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.43733677.js",
+    "runtime-main.js.map": "/static/js/runtime-main.43733677.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.4f7f62af.chunk.js": "/static/js/2.4f7f62af.chunk.js",
+    "static/js/2.4f7f62af.chunk.js.map": "/static/js/2.4f7f62af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.69f9032f.chunk.css.map": "/static/css/main.69f9032f.chunk.css.map",
+    "static/js/2.4f7f62af.chunk.js.LICENSE.txt": "/static/js/2.4f7f62af.chunk.js.LICENSE.txt",
+    "static/media/comingsoon.css": "/static/media/Raleway-VariableFont_wght.3fefe681.ttf",
+    "static/media/App.css": "/static/media/herobg.de5ce8d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43733677.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.4f7f62af.chunk.js",
+    "static/css/main.69f9032f.chunk.css",
+    "static/js/main.e8c74b20.chunk.js"
+  ]
+}
